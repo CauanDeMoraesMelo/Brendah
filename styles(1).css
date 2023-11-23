@@ -1,0 +1,13 @@
+:root
+{
+    --cor-de-fundo:#D8E6E9;
+}
+ body{
+    background-color: var(--cor-de-fundo);
+ }
+
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ .
