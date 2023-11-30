@@ -12,12 +12,10 @@
 .cabeçalho{
     background-color: #D8E6E9;
 }
-
 .ah{
     background-color: #B8D9DB;
     height: 125px;
 }
-
 .a{
     display: flex;
 }
@@ -55,4 +53,29 @@
     padding-left: 50px;
     padding-top: 90px;
 
+}
+.aju{
+    padding-left: 425px;
+    padding-top: 40px;
+    font-size: 20px;
+}
+.sub{
+    padding-left: 422px;
+    padding-top: 10px;
+    font-size: 10px;
+}
+.t{
+    padding-top: 110px;
+    padding-left: 170px;
+    font-size: 23px;
+}
+.ti{
+    padding-left: 350px;
+    padding-top: 250px;
+    font-size: 25px;
+    color: #256675;
+}
+.tel{
+    padding-top: 100px;
+    font-size: 18px;
 }
